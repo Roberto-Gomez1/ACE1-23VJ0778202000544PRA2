@@ -1,0 +1,4 @@
+[credenciales]
+usuario = "USUARIO"
+clave = "CLAVE"
+
